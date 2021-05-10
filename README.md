@@ -2,4 +2,4 @@
 
 Here are my HTML projects.
 
-https://codepen.io/tristanlee3401/pen/jOyrreZ
+https://codepen.io/tristanlee3401/full/jOyrreZ
